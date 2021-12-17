@@ -1,8 +1,8 @@
-# Deployment Model ANN (Cat atau Dog)
+# Deployment Model ANN (Clean or Messy)
 
 ## Deskripsi singkat
 
-Repository ini berisi semua file yang dibutuhkan untuk melakukan deployment model Machine Learning Image Classification menggunakan ANN (Artificial Neural Network). Adapun model yang digunakan merupakan model untuk memprediksi gambar kucing atau anjing (Cat vs Dog).
+Repository ini berisi semua file yang dibutuhkan untuk melakukan deployment model Machine Learning Image Classification menggunakan ANN (Artificial Neural Network). Adapun model yang digunakan merupakan model untuk memprediksi gambar Ruang kamar (clean or messy).
 
 #
 
